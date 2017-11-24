@@ -556,3 +556,7 @@ You can change the status of your board to be *public* or *private*.
 - [ ] [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2)   
 - [ ] [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)   
 - [ ] [ops-class.org - Hack the Kernel](https://www.ops-class.org/)   
+
+### Core Theory
+- [ ] [Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
+- [ ] [Algorithms: Design and Analysis, Part II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
