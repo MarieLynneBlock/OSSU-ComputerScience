@@ -526,6 +526,7 @@ You can change the status of your board to be *public* or *private*.
 - [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)
 
 --------
+--------
 
 # My Progress
 
@@ -542,3 +543,10 @@ You can change the status of your board to be *public* or *private*.
 - [ ] [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)   
 - [ ] [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)   
 - [ ] [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)   
+
+### Core Math
+- [ ] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)   
+- [ ] [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/))   
+- [ ] [Calculus One](https://www.coursera.org/learn/calculus1)   
+- [ ] [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)   
+- [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)   
