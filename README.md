@@ -623,10 +623,10 @@ You can change the status of your board to be *public* or *private*.
 ### 5.1 Programming
 - [ ] [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-2#!)
 - [x] [Introduction to Computer Science (Udacity)](https://www.udacity.com/course/intro-to-computer-science--cs101)
-- [x] [An Introduction to Interactive Programming in Python (Part 1)]
+- [x] [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1)
 - [x] [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2)
 - [ ] [Object-Oriented Programming](https://www.edx.org/course/object-oriented-programming-iitbombayx-cs101-2x)
-- [ ][Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab)
+- [ ] [Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab)
 - [ ] [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 - [ ] [The Structure and Interpretation of Computer Programs](http://cs61a.org/)
 - [ ] [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)
