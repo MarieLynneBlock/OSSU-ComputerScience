@@ -532,7 +532,8 @@ You can change the status of your board to be *public* or *private*.
 
 ## 1. Introduction to Computer Science
 - [x] [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/))   
-- [x] [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)   
+- [x] [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) 
+
 
 ## 2. Core CS
 ### 2.1 Core programming
@@ -568,3 +569,21 @@ You can change the status of your board to be *public* or *private*.
 - [ ] [Cryptography I](https://www.coursera.org/course/crypto)
 - [ ] [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 - [ ] [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
+
+
+## 3. Advanced CS
+### 3.1 Advanced Programming
+- [ ] [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+- [ ] [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+- [ ] [Software Testing](https://www.udacity.com/course/software-testing--cs258)
+- [ ] [LAFF: Programming for Correctness](https://www.edx.org/course/laff-programming-correctness-utaustinx-ut-p4c-14-01x)
+- [ ] [Introduction to Parallel Programming](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
+- [ ] [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
+
+### 3.2 Advanced Math
+- [ ] [Calculus: Parametric Equations and Polar Coordinates](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/)
+- [ ] [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+- [ ] [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+
+
+
