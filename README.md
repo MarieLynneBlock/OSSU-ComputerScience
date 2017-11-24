@@ -585,5 +585,29 @@ You can change the status of your board to be *public* or *private*.
 - [ ] [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 - [ ] [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
 
+### 3.3 Advanced Systems
+- [ ] [Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0)
+- [ ] [Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0)
+- [ ] [Computation Structures 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)
+- [ ] [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)
+- [ ] [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)
 
 
+### 3.4 Advanced theory
+- [ ] [Introduction to Logic](https://www.coursera.org/learn/logic-introduction)
+- [ ] [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about)
+- [ ] [Reliable Distributed Systems, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x) 
+- [ ] [Reliable Distributed Systems, Part 2](https://www.edx.org/course/reliable-distributed-algorithms-part-2-kthx-id2203-2x) 
+- [ ] [Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x)
+- [ ] [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis)
+- [ ] [Game Theory](https://www.coursera.org/learn/game-theory-1)
+
+### Advanced Applications
+- [ ] [Robotics (Specialization)](https://www.coursera.org/specializations/robotics)
+- [ ] [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining)
+- [ ] [Big Data (Specialization)](https://www.coursera.org/specializations/big-data)
+- [ ] [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things)
+- [ ] [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing)
+- [ ] [Full Stack Web Development (Specialization)](https://www.coursera.org/specializations/full-stack)
+- [ ] [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science)
+- [ ] [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala)
