@@ -557,6 +557,14 @@ You can change the status of your board to be *public* or *private*.
 - [ ] [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)   
 - [ ] [ops-class.org - Hack the Kernel](https://www.ops-class.org/)   
 
-### Core Theory
+### 2.4 Core Theory
 - [ ] [Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 - [ ] [Algorithms: Design and Analysis, Part II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
+
+### 2.5 Core Applications
+- [ ] [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+- [ ] [Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [ ] [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
+- [ ] [Cryptography I](https://www.coursera.org/course/crypto)
+- [ ] [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+- [ ] [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
