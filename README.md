@@ -592,7 +592,6 @@ You can change the status of your board to be *public* or *private*.
 - [ ] [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)
 - [ ] [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)
 
-
 ### 3.4 Advanced theory
 - [ ] [Introduction to Logic](https://www.coursera.org/learn/logic-introduction)
 - [ ] [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about)
@@ -602,7 +601,7 @@ You can change the status of your board to be *public* or *private*.
 - [ ] [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis)
 - [ ] [Game Theory](https://www.coursera.org/learn/game-theory-1)
 
-### Advanced Applications
+### 3.5 Advanced Applications
 - [ ] [Robotics (Specialization)](https://www.coursera.org/specializations/robotics)
 - [ ] [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining)
 - [ ] [Big Data (Specialization)](https://www.coursera.org/specializations/big-data)
@@ -611,3 +610,10 @@ You can change the status of your board to be *public* or *private*.
 - [ ] [Full Stack Web Development (Specialization)](https://www.coursera.org/specializations/full-stack)
 - [ ] [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science)
 - [ ] [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala)
+
+
+## 4. Pro CS
+- [x] Nanodegree Front-End Web Development
+
+
+## 5. Extramural Courses
