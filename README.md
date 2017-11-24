@@ -535,7 +535,7 @@ You can change the status of your board to be *public* or *private*.
 - [x] [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)   
 
 ## 2. Core CS
-### Core programming
+### 2.1 Core programming
 - [ ] [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)   
 - [ ] [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)   
 - [ ] [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)   
@@ -544,9 +544,15 @@ You can change the status of your board to be *public* or *private*.
 - [ ] [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)   
 - [ ] [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)   
 
-### Core Math
+### 2.2 Core Math
 - [ ] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)   
 - [ ] [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!) ([alt](http://ulaff.net/))   
 - [ ] [Calculus One](https://www.coursera.org/learn/calculus1)   
 - [ ] [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)   
 - [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)   
+
+### 2.3 Core Systems
+- [ ] [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/))   
+- [ ] [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2)   
+- [ ] [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)   
+- [ ] [ops-class.org - Hack the Kernel](https://www.ops-class.org/)   
