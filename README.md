@@ -532,3 +532,13 @@ You can change the status of your board to be *public* or *private*.
 ## 1. Introduction to Computer Science
 - [x] [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/))   
 - [x] [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)   
+
+## 2. Core CS
+### Core programming
+- [ ] [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)   
+- [ ] [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)   
+- [ ] [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)   
+- [ ] [Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)   
+- [ ] [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)   
+- [ ] [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)   
+- [ ] [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)   
