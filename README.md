@@ -637,37 +637,28 @@ You can change the status of your board to be *public* or *private*.
 [Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro)| - | -
 [Linear Algebra (Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) | - | -
 
-## Systems
+## 5.3 Systems
+- [ ] [Computer Architecture](https://www.coursera.org/learn/comparch)
+- [ ] [Operating System Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
+- [ ] [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
+- [ ] [Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
+- [ ] [Computer Networking](https://www.udacity.com/course/computer-networking--ud436)
 
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Computer Architecture](https://www.coursera.org/learn/comparch) | - | 5-8 hours/week
-[Operating System Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/) | - | -
-[Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| 8 weeks | 5-8 hours/week
-[Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)| 5 weeks | 5-8 hours/week
-[Computer Networking](https://www.udacity.com/course/computer-networking--ud436) | 12 weeks | 5-8 hours/week
-
-## Theory
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | 6 weeks | 6-12 hours/week
-[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | 6 weeks | 6-12 hours/week
-[Analysis of Algorithms (Sedgewick)](https://www.coursera.org/learn/analysis-of-algorithms) | 6 weeks | 6-8 hours/week
-[Analysis of Algorithms (Skiena)](http://www3.cs.stonybrook.edu/~skiena/373/) | 15 weeks | 6-8 hours/week
-[Programming Challenges (Skiena)](http://www3.cs.stonybrook.edu/~skiena/392/) | 14 weeks | 6-8 hours/week
-[Data Structures and Algorithms (Specialization)](https://www.coursera.org/specializations/data-structures-algorithms) | 25 weeks | 3-10 hours/week
-[Algorithmic Thinking (Part 1)](https://www.coursera.org/learn/algorithmic-thinking-1/) | - | -
-[Algorithmic Thinking (Part 2)](https://www.coursera.org/learn/algorithmic-thinking-2/) | - | -
-[Statistical Mechanics: Algorithms and Computations](https://www.coursera.org/learn/statistical-mechanics/) | - | -
-[Approximation Algorithms Part I](https://www.coursera.org/learn/approximation-algorithms-part-1/) | - | -
-[Approximation Algorithms Part II](https://www.coursera.org/learn/approximation-algorithms-part-2/) | - | -
+## 5.4 Theory
+- [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+- [ ] [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+- [ ] [Analysis of Algorithms (Sedgewick)](https://www.coursera.org/learn/analysis-of-algorithms)
+- [ ] [Analysis of Algorithms (Skiena)](http://www3.cs.stonybrook.edu/~skiena/373/)
+- [ ] [Programming Challenges (Skiena)](http://www3.cs.stonybrook.edu/~skiena/392/)
+- [ ] [Data Structures and Algorithms (Specialization)](https://www.coursera.org/specializations/data-structures-algorithms)
+- [x] [Algorithmic Thinking (Part 1)](https://www.coursera.org/learn/algorithmic-thinking-1/)
+- [x] [Algorithmic Thinking (Part 2)](https://www.coursera.org/learn/algorithmic-thinking-2/)
+- [ ] [Statistical Mechanics: Algorithms and Computations](https://www.coursera.org/learn/statistical-mechanics/)
+- [ ] [Approximation Algorithms Part I](https://www.coursera.org/learn/approximation-algorithms-part-1/)
+- [ ] [Approximation Algorithms Part II](https://www.coursera.org/learn/approximation-algorithms-part-2/)
 
 ## Applications
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Using Databases with Python](https://www.coursera.org/learn/python-databases) | 5 weeks | 2-3 hours/week
+- [ ] [Using Databases with Python](https://www.coursera.org/learn/python-databases)
 [Database Systems](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22ed2ee867-9610-4bad-94af-5d12c2ea47cd%22) | - | 27 hours
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | 7 weeks | 4-6 hours/week
 [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)| 16 weeks | 6-10 hours/week
