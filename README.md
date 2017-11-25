@@ -613,10 +613,12 @@ You can change the status of your board to be *public* or *private*.
 
 
 ## 4. Pro CS
-- [x] Nanodegree Front-End Web Development
-- [x] Web Developer Bootcamp
-- [x] Advanced Web Developer Bootcamp
-- [x] Databases Bootcamp
+
+### 4.1 Specialization: Web Development
+- [x] [Nanodegree Front-End Web Development](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+- [x] [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
+- [x] [Advanced Web Developer Bootcamp](https://www.udemy.com/the-advanced-web-developer-bootcamp/learn/v4/overview)
+- [x] [Ultimate Databases Bootcamp - MySQL](https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/learn/v4/overview)
 
 
 ## 5. Extramural Courses
@@ -633,9 +635,9 @@ You can change the status of your board to be *public* or *private*.
 
 ### 5.2 Math
 - [ ] [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 10 hours/week
-[Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro)| - | -
-[Linear Algebra (Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) | - | -
+- [ ] [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
+- [ ] [Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro)
+- [ ] [Linear Algebra (Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.html)
 
 ### 5.3 Systems
 - [ ] [Computer Architecture](https://www.coursera.org/learn/comparch)
