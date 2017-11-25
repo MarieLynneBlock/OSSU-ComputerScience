@@ -631,20 +631,20 @@ You can change the status of your board to be *public* or *private*.
 - [ ] [The Structure and Interpretation of Computer Programs](http://cs61a.org/)
 - [ ] [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)
 
-## 5.2 Math
+### 5.2 Math
 - [ ] [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 10 hours/week
 [Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro)| - | -
 [Linear Algebra (Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) | - | -
 
-## 5.3 Systems
+### 5.3 Systems
 - [ ] [Computer Architecture](https://www.coursera.org/learn/comparch)
 - [ ] [Operating System Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/)
 - [ ] [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
 - [ ] [Advanced Operating Systems](https://www.udacity.com/course/advanced-operating-systems--ud189)
 - [ ] [Computer Networking](https://www.udacity.com/course/computer-networking--ud436)
 
-## 5.4 Theory
+### 5.4 Theory
 - [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [ ] [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 - [ ] [Analysis of Algorithms (Sedgewick)](https://www.coursera.org/learn/analysis-of-algorithms)
@@ -657,7 +657,7 @@ You can change the status of your board to be *public* or *private*.
 - [ ] [Approximation Algorithms Part I](https://www.coursera.org/learn/approximation-algorithms-part-1/)
 - [ ] [Approximation Algorithms Part II](https://www.coursera.org/learn/approximation-algorithms-part-2/)
 
-## Applications
+### 5.5 Applications
 - [x] [Using Databases with Python](https://www.coursera.org/learn/python-databases)
 - [ ] [Database Systems](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22ed2ee867-9610-4bad-94af-5d12c2ea47cd%22)
 - [ ] [Database Management Essentials](https://www.coursera.org/learn/database-management)
